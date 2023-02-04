@@ -1,0 +1,28 @@
+.site-title {
+  color: white;
+  background-color: green;
+  font-size: 45px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.recipe-title {
+  color: white;
+  background-color: blueviolet;
+  font-size: 30px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+img {
+  height: auto;
+  width: 300px;
+}
+
+.recipe {
+  font-size: 24px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
